@@ -5,4 +5,4 @@ This repository will contain my tutorials about hosting websites on the Tor Netw
 
 [How To Configure a Hidden Service](https://github.com/hwik2025/hidden-services/blob/main/how-to-configure-a-hidden-service.md)
 
-[Explore the Deep Web](https://hiddenwiki.live)
+[Hidden Wiki](https://hiddenwiki.live)
